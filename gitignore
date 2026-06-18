@@ -1,0 +1,23 @@
+# Model weights (too large for git, ~250MB)
+distilbert_ai_vs_human/
+
+# Dataset (too large, 100k rows)
+*.csv
+
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Training outputs
+training_graphs/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
