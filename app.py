@@ -86,7 +86,6 @@ def run_predict(text):
         "num_chunks": len(chunks),
     }
 
-
 def run_explain(text, top_n=10):
     cleaned = clean_text(text)
     chunk   = chunk_text(cleaned, CFG.MAX_LEN)[0]
