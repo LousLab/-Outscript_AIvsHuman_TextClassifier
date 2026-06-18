@@ -2,7 +2,7 @@ import torch
 
 class CFG:
     # Dataset
-    CSV_PATH              = r"C:\Users\rival\Downloads\balanced_ai_human_100k.csv"
+    CSV_PATH              = r"filepath"
     TEXT_COL              = "text"
     LABEL_COL             = "generated"
 
