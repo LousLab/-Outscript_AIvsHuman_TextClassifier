@@ -41,6 +41,8 @@ AI vs Human Text Dataset (Kaggle)
 
 Performance may decrease on highly formal or academic human-written text due to dataset bias.
 
+## Note: While the model achieved very high evaluation metrics, the results are likely influenced by dataset-specific patterns and overfitting, limiting real-world generalization; this project was primarily undertaken as a learning experience in NLP model training, deployment, and explainable AI.
+
 **Author:** [Lourembam Rivaldo]
 **Institution:** Assam Don Bosco University]
 **Year:** 2026
